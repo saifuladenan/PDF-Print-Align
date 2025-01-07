@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|c:\\users\\saiful\\source\\repos\\pdf_print_align\\pdf_print_align\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|solutionrelative:pdf_print_align\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|c:\\users\\saiful\\source\\repos\\pdf_print_align\\pdf_print_align\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|solutionrelative:pdf_print_align\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|c:\\users\\saiful\\source\\repos\\pdf_print_align\\pdf_print_align\\pdf_print_align.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|solutionrelative:pdf_print_align\\pdf_print_align.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|c:\\users\\saiful\\source\\repos\\pdf_print_align\\pdf_print_align\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C032826D-AD41-4D04-981F-F1EF0B53CF82}|PDF_Print_Align\\PDF_Print_Align.csproj|solutionrelative:pdf_print_align\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PDF_Print_Align",
+              "DocumentMoniker": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\PDF_Print_Align.csproj",
+              "RelativeDocumentMoniker": "PDF_Print_Align\\PDF_Print_Align.csproj",
+              "ToolTip": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\PDF_Print_Align.csproj",
+              "RelativeToolTip": "PDF_Print_Align\\PDF_Print_Align.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T13:03:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PDF_Print_Align\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\Form1.Designer.cs",
+              "RelativeToolTip": "PDF_Print_Align\\Form1.Designer.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAewNEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:34:33.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF_Print_Align\\Form1.cs",
+              "ToolTip": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\Form1.cs",
+              "RelativeToolTip": "PDF_Print_Align\\Form1.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAwHoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:04:38.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF_Print_Align\\Form1.cs",
+              "ToolTip": "C:\\Users\\SaifuL\\source\\repos\\PDF_Print_Align\\PDF_Print_Align\\Form1.cs [Design]",
+              "RelativeToolTip": "PDF_Print_Align\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:58:06.706Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
